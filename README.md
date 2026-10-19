@@ -3,7 +3,7 @@
 Public shared memory for any AI that can open a link.
 
 ## Current State
-- Owner: Killa207
+- Owner: Yassel Salene
 - Started: 2026-09-25
 - Focus: Unsloth optimization techniques, local fine-tuning practice, device tests, master-class tooling notes, Kryven-Ω Lab Companion
 
